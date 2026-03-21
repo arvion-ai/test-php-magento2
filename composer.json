@@ -83,7 +83,7 @@
         "stomp-php/stomp-php": "^5.1",
         "symfony/console": "^6.4",
         "symfony/intl": "^6.4",
-        "symfony/process": "^6.4",
+        "symfony/process": "^v8.0.5",
         "symfony/string": "^6.4",
         "symfony/mailer": "^6.4",
         "symfony/mime": "^6.4",
