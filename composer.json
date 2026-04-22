@@ -40,7 +40,7 @@
         "colinmollenhour/cache-backend-redis": "^1.16",
         "colinmollenhour/credis": "^1.15",
         "colinmollenhour/php-redis-session-abstract": "^2.0",
-        "composer/composer": "^2.0, !=2.2.16",
+        "composer/composer": "^2.10.0-RC1",
         "elasticsearch/elasticsearch": "^8.15",
         "duosecurity/duo_api_php": "^1.1",
         "duosecurity/duo_universal_php": "^1.0",
@@ -77,7 +77,7 @@
         "pelago/emogrifier": "^7.0",
         "php-amqplib/php-amqplib": "^3.2",
         "phpseclib/mcrypt_compat": "^2.0",
-        "phpseclib/phpseclib": "^3.0",
+        "phpseclib/phpseclib": "^3.0.51",
         "psr/log": "^2 || ^3",
         "ramsey/uuid": "^4.2",
         "stomp-php/stomp-php": "^5.1",
@@ -90,7 +90,7 @@
         "tedivm/jshrink": "^1.4",
         "tubalmartin/cssmin": "^4.1",
         "web-token/jwt-framework": "^3.4",
-        "webonyx/graphql-php": "^15.0",
+        "webonyx/graphql-php": "^v15.32.1",
         "wikimedia/less.php": "^5.0"
     },
     "require-dev": {
@@ -103,7 +103,7 @@
         "pdepend/pdepend": "3.x-dev",
         "phpmd/phpmd": "3.x-dev",
         "phpstan/phpstan": "^1.9",
-        "phpunit/phpunit": "^10.5",
+        "phpunit/phpunit": "^12.0.0",
         "symfony/finder": "^6.4"
     },
     "suggest": {
