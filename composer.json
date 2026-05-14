@@ -99,7 +99,7 @@
         "dg/bypass-finals": "^1.4",
         "friendsofphp/php-cs-fixer": "^3.22",
         "magento/magento-coding-standard": "*",
-        "magento/magento2-functional-testing-framework": "^5.0",
+        "magento/magento2-functional-testing-framework": "^5.3.0",
         "pdepend/pdepend": "3.x-dev",
         "phpmd/phpmd": "3.x-dev",
         "phpstan/phpstan": "^1.9",
